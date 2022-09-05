@@ -15,4 +15,3 @@ echo "[name]" > [txt file]
 The echo command is used to display line of text/string.
 With the greater-than operator ">", the output from the echo command will be redirected a file (car.txt)
 If the file already exists, it will be deleted.
-============================================================
