@@ -11,7 +11,7 @@ We need to specify a job (Job is a task GitLab should do for us)
 touch [filename]
 The touch command is a very simple way to create new, empty files.
 
-echo "[name]" >
+echo "[name]" > [txt file]
 The echo command is used to display line of text/string.
 With the greater-than operator ">", the output from the echo command will be redirected a file (car.txt)
 If the file already exists, it will be deleted.
